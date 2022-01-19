@@ -1,0 +1,11 @@
+header{
+  text-align: center;
+  color: white;
+  background-image: url("Portfolio-with-Bootstrap\images\Header bg.svg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
