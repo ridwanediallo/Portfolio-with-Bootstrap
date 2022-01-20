@@ -1,11 +1,22 @@
-header{
-  text-align: center;
-  color: white;
-  background-image: url("Portfolio-with-Bootstrap\images\Header bg.svg");
+body{
+}
+
+
+.headline{
+  /* text-align: center; */
+  background-image: url("/images/Header\ bg.svg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
   width: 100vw;
   height: 100vh;
+}
+
+.social-icons{
+  /* margin: 142px 0 0 142px; */
+}
+
+.illust{
+  width: 100%;
 }
