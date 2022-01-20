@@ -1,5 +1,3 @@
-body{
-}
 
 
 .headline{
@@ -9,14 +7,9 @@ body{
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  width: 100vw;
-  height: 100vh;
+  height: 90vh;
 }
 
-.social-icons{
-  /* margin: 142px 0 0 142px; */
-}
 
-.illust{
-  width: 100%;
-}
+
+
