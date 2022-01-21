@@ -1,0 +1,15 @@
+
+
+.headline{
+  /* text-align: center; */
+  background-image: url("images/Header\ bg.svg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  height: 90vh;
+}
+
+
+
+
